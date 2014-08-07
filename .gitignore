@@ -1,3 +1,7 @@
+#intellj
+.idea/
+*.iml
+
 # rcov generated
 coverage
 
